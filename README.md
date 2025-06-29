@@ -4,7 +4,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">CardBank</h3>
+  <h3 align="center">BinCard</h3>
 
 </div>
 
